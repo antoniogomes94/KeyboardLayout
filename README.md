@@ -1,1 +1,1 @@
-redragon Draconic K530 ANSI Keybord configuration to ABNT2
+Redragon Draconic K530 ANSI Keybord configuration to ABNT2
