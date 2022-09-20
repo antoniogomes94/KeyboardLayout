@@ -1,0 +1,8 @@
+Ç -> pgup
+~^ -> pgdown
+;: -> del
+´` -> Home
+[{ -> END
+
+U+005c
+U+007c
